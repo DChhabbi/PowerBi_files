@@ -4,20 +4,12 @@ This repository contains a collection of Power BI report files showcasing my wor
 
 ## 📊 Featured Projects
 
-### [Project 1: Retail - Mega Market]
-Description: This dashboard provides insights into sales performance metrics including revenue, profit, and customer segments.
-
-### [Project 2: ABC Bank Report]
-Description: A comprehensive financial analysis report showcasing key financial metrics and trends.
-
-### [Project 3: AW Report]
-Description: Explore this dashboard to gain insights into HR analytics including employee turnover, performance, and recruitment metrics.
-
-### [Project 4: Finance]
-
-### [Project 5: HR turnover report]
-
-### [Project 6: Sales Report]
+### Project 1: Retail - Mega Market
+### Project 2: ABC Bank Report
+### Project 3: AW Report
+### Project 4: Finance
+### Project 5: HR turnover report
+### Project 6: Sales Report
 
 ## 📫 Get in Touch
 
