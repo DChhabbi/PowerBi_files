@@ -1,7 +1,5 @@
 # Welcome to My Power BI Repository! 👋
 
-![Power BI Logo](/images/powerbi_logo.png)
-
 This repository contains a collection of Power BI report files showcasing my work and expertise in data visualization and analysis. Feel free to explore the reports and dashboards to gain insights into various data sets and analysis techniques.
 
 ## 📊 Featured Projects
