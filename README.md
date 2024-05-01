@@ -15,8 +15,8 @@ This repository contains a collection of Power BI report files showcasing my wor
 
 If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: (https://www.linkedin.com/in/dayanand-chhabbi/)
+- Email: dayanandchabbi@gmail.com
 
 Happy exploring!
 
